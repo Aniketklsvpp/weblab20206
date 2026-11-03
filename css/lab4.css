@@ -1,0 +1,48 @@
+*
+{
+    display: block;
+    margin-left: 15px;
+}
+
+USN
+{
+    color: skyblue;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 25px;
+
+}
+ 
+NAME
+{
+    color: black;
+    font-size: 26px;
+     font-style: italic;
+     font-family: inherit;
+}
+ 
+COLLEGE
+{
+    color: red;
+    font-size: 22px;
+}
+ 
+PROGRAMME
+{
+    color: yellowgreen;
+    font-size: 22px;
+    font-family:cursive ;
+}
+ 
+YEAR
+{
+    color:  orangered;
+    font-size: 20px;
+    font-style: italic;
+}
+ 
+EMAIL
+{
+    color: brown;
+    font-size: 18px;
+}
